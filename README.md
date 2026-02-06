@@ -2,7 +2,7 @@
 
 A dynamic "Mad Libs" style web app that captures user input to generate custom stories instantly. This project demonstrates **Form Validation**, **DOM Manipulation**, and **Interactive UI States**.
 
-🔗 **[Live Demo](https://Junotfras.github.io/narrative-generator)**
+🔗 **[Live Demo](https://junotfras.github.io/narrative-generator)**
 
 ## 🚀 Key Features
 
